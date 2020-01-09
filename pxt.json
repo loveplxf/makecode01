@@ -1,0 +1,18 @@
+{
+    "name": "ScrollText",
+    "version": "1.2.0",
+    "description": "makecode ScrollText Package for micro:bit, display ScrollText in different direction, rotation and speed.",
+    "icon": "./static/libs/tropic.png",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
